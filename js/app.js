@@ -5,4 +5,5 @@ $('.spoiler button').click(function() {
     // Show the spoiler text
     $('.spoiler span').show();
     // Hide the "Reveal Spoiler" button
+    $('.spoiler button').hide();
 )};
