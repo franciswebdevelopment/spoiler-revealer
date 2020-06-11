@@ -6,4 +6,4 @@ $('.spoiler button').click(function() {
     $('.spoiler span').show();
     // Hide the "Reveal Spoiler" button
     $('.spoiler button').hide();
-)};
+});
